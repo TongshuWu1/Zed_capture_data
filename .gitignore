@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+data/*
+!data/.gitkeep
+.idea/
+.setup-cache/
+work/
+dist/
+*.svo
+*.svo2
+*.partial.mp4
+.env
+*.log
